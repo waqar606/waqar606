@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ownlydigital.com/images/device/web-1.jpg)]
+![MasterHead](https://www.ownlydigital.com/images/device/web-1.jpg)
 
 # 💫 Hi 👋, I'm Waqar Ahmed
 **A passionate Mern Stack ||ReactJs, NodeJs, Django Developer
