@@ -1,7 +1,7 @@
 ![MasterHead](https://www.ownlydigital.com/images/device/web-1.jpg)
 
 # 💫 Hi 👋, I'm Waqar Ahmed
-**A passionate Mern Stack ||ReactJs, NodeJs, Django Developer
+**A passionate MERN Stack developer from Pakistan
 
 Email Me 👉 ✉️ **waqar.tech999@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
