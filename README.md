@@ -1,7 +1,15 @@
 
+<h2 align="center"><samp>Hi 👋 I'm  Waqar Ahmed</samp></h2>
+<h3 align="center"><samp>A software developer from Pakistan</samp> </h3>
 
-# 💫 Hi 👋, I'm Waqar Ahmed
-**A passionate MERN Stack developer from Pakistan
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+
+<!-- Badge -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+
+
+<div style="margin-bottom: 200px;"></div>
+
 
 Email Me 👉 ✉️ **waqar.tech999@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
